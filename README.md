@@ -11,8 +11,4 @@ If you feel like it has really helped you in your learning process and saved you
 
 You can support me here (This is completely optional. Please do not feel obligated in any way to do so.):
 
-For Bitcoin, Etherium or USDT (ERC20 address, $5+ transfer fee): 0x9ceed8db321995934e7deeaf00fd9ec79a659c3b
-
-For USDT (TRC20 address, $0 transfer fee): TWBpme5WVozC7z2YsMr8hhyBUi53TzpDdZ
-
 Thank You and Keep learning :)
